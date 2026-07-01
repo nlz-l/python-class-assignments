@@ -63,7 +63,3 @@ python课上作业/
 
 ---
 
-## 🔗 相关项目
-
-- **练习代码**：[python-learning-notes](../python-learning-notes/)
-- **R 语言作业**：[R](../R/)
