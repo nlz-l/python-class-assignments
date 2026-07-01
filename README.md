@@ -1,11 +1,19 @@
-# Python Class Assignments
+# Python 课上作业归档
 
-Python/data-science coursework documents and related images.
+本项目用于归档 Python 及数据科学课程相关作业，主要内容是实验报告、课程分析报告和配套图片材料。它更偏向课程成果留存，而不是可直接运行的代码项目。
 
-## Contents
+## 内容概览
 
-- Experiment reports
-- Data science introduction analysis report
-- Supporting images in `img`
+- `2023109223-刘文博-实验*.docx`：各次实验报告
+- `《数据科学导论》数据分析报告.doc`：数据科学导论课程分析报告
+- `img/`：报告中使用或生成的图片素材
 
-Most materials are Word documents, so this repository is mainly for archiving coursework deliverables.
+## 使用方式
+
+使用 Word、WPS 或 LibreOffice 打开 `.doc` / `.docx` 文件查看。若需要继续完善报告，建议保留原文件格式，避免图片、表格和公式排版发生变化。
+
+## 整理建议
+
+- 按实验编号查看，能够更清晰地还原课程学习顺序
+- 图片素材建议与对应报告一起核对，避免后续迁移时丢失
+- 如果后续补充源码，可以新建 `code/` 或按实验编号建立子目录，方便把报告与代码对应起来
